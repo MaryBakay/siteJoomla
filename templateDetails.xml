@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="template" client="site">
+        <name>siteJoomla_2</name>
+        <creationDate>05.01.2016</creationDate>
+        <author>Bakay Mary</author>
+        <authorEmail>italic_m@mail.ru</authorEmail>
+        <copyright>Bakay Mary 2016</copyright>
+        <license>GNU/GPL</license>
+        <version>1.0.0</version>
+        <description><![CDATA[Профессиональный шаблон, созданный по инструкции блога о создании и продвижении сайтов: <a target="_blank" href="http://site-on.net/">Site on!</a>]]></description>
+        <files>
+                <filename>index.php</filename>
+                <filename>index.html</filename>
+                <filename>templateDetails.xml</filename>
+                <filename>template_thumbnail.png</filename>
+                <folder>css</folder>
+                <folder>images</folder>
+                <folder>html</folder>
+        </files>
+        <positions>
+                <position>top-menu</position>
+                <position>left-column</position>
+                <position>right-column</position>
+                <position>footer</position>
+        </positions>
+</extension>
